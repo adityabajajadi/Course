@@ -9,4 +9,6 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
-
+Aditya Bajaj
+Divide and Conquer Algorithms
+The key concept I learned is how to break down a problem into smaller subproblems, solve each subproblem independently, and then combine their solutions to solve the original problem efficiently. This approach is particularly useful for problems that can be recursively defined.
